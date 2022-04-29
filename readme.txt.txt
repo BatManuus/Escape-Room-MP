@@ -7,3 +7,6 @@ Setup Your Data
 Make Changes in Code according to your DB
 And You are Set To Play
 ------------------------------------
+Change Directories of Images In.py files
+(ui File contains All the ui files used in the Project)
+------------------------------------
